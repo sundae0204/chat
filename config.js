@@ -18,7 +18,7 @@ const config = {
         "websocket_enable": true,
         "websocket_url": "ws://127.0.0.1:3000",
         "websocket_reconnect_limit": 5,
-        "experimental_api_enable": false,
+        "experimental_api_enable": true,
         "messages_polling_enable": true,
         "messages_polling_tick": 250,
         "sleep_enable": true,
