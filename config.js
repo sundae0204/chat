@@ -15,7 +15,7 @@ const config = {
         "live_theme_script_enable": false,
         "broadcast_enable": true,
         "broadcast_channel": "sheep-realms:echolive",
-        "websocket_enable": false,
+        "websocket_enable": true,
         "websocket_url": "ws://127.0.0.1:3000",
         "websocket_reconnect_limit": 5,
         "experimental_api_enable": false,
